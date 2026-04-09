@@ -81,3 +81,18 @@ This project demonstrates strong skills in data cleaning, SQL analysis, and inte
 ## 👤 Author
 
 Nagesh Nagolkar
+
+
+
+
+
+
+#RESUME POINTS
+
+* Built an end-to-end E-Commerce Sales & Customer Insights Dashboard using Excel, SQL, and Power BI
+* Analyzed 10K+ records to identify sales trends, customer behavior, and product performance
+* Designed interactive dashboards with KPI cards, slicers, and drill-down features
+* Evaluated discount impact on revenue and profitability using DAX calculations
+* Identified top-performing products, categories, and high-value customers
+* Improved decision-making by delivering actionable business insights
+
